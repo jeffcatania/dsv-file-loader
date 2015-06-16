@@ -1,12 +1,12 @@
 {
-  "name": "dsv-loader",
-  "version": "1.0.0",
+  "name": "dsv-file-loader",
+  "version": "0.1.0",
   "description": "A webpack module to load dsv (e.g. .csv or .tsv) files.",
   "keywords": ["webpack", "loader", "dsv", "csv", "tsv"],
   "author": {
-    "name": "webkid.io",
-    "email": "hi@webkid.io",
-    "web": "http://twitter.com/webk1d"
+    "name": "Jeffrey Catania",
+    "email": "jeffrey.catania@accenture.com",
+    "web": "http://www.accenture.com"
   },
   "bugs": {
     "url" : "https://github.com/wbkd/dsv-loader/issues"
