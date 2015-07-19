@@ -1,8 +1,8 @@
 {
   "name": "dsv-file-loader",
   "version": "0.1.0",
-  "description": "A webpack module to load dsv (e.g. .csv or .tsv) files.",
-  "keywords": ["webpack", "loader", "dsv", "csv", "tsv"],
+  "description": "A webpack module to load dsv (e.g. .csv or .tsv) files as files.",
+  "keywords": ["webpack", "loader", "dsv", "csv", "tsv", "file"],
   "author": {
     "name": "Jeffrey Catania",
     "email": "jeffrey.catania@accenture.com",
